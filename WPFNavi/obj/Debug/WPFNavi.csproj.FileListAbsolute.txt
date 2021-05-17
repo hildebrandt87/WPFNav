@@ -1,0 +1,15 @@
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\bin\Debug\WPFNavi.exe.config
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\bin\Debug\WPFNavi.exe
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\bin\Debug\WPFNavi.pdb
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.csprojAssemblyReference.cache
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\MainWindow.g.cs
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\App.g.cs
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi_MarkupCompile.cache
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi_MarkupCompile.lref
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\MainWindow.baml
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.g.resources
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.Properties.Resources.resources
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.csproj.GenerateResource.cache
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.csproj.CoreCompileInputs.cache
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.exe
+C:\Users\KaiHildebrandt\source\repos\WPFNavi\WPFNavi\obj\Debug\WPFNavi.pdb

@@ -1,0 +1,30 @@
+<SEW>
+        <Gebauede>
+            <Gebauede_04>
+                <Name>Gebäude 4</Name>
+                <Raum>
+                    <Raum_1>
+                        <Name>Raum 1</Name>
+                        <AlarmVar>Var1</AlarmVar>
+                    </Raum_1>
+                    <Raum_2>
+                        <Name>Raum 2</Name>
+                        <AlarmVar>Var2</AlarmVar>
+                    </Raum_2>
+                    <Raum_3>
+                        <Name>Raum 3</Name>
+                        <AlarmVar>Var3</AlarmVar>
+                    </Raum_3>
+                </Raum>
+            </Gebauede_04>
+            <Gebauede_12>
+                <Name>Geb 12 Neue Elek.</Name>
+                <Raum>
+                    <Raum_1>
+                        <Name>Raum 1</Name>
+                        <AlarmVar>Var1</AlarmVar>
+                    </Raum_1>
+                </Raum>
+            </Gebauede_12>
+        </Gebauede>
+</SEW>
